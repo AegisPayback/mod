@@ -1,0 +1,78 @@
+﻿l_english:
+
+ # # # # I N F L U E N C E # # # #
+ GER_generalgouvernement: "Generalgouvernement"
+ GER_reichskommissariat_moskovien: "Reichskommissariat Moskovien"
+ GER_reichskommissariat_kaukasien: "Reichskommissariat Kaukasien"
+ GER_reichskommissariat_trans_ural: "Reichskommissariat Trans-Ural"
+
+ GER_influence_decision_category:0 "Influence"
+ 
+    
+ GER_influence_decision_category_desc:0 "Place holder text here \n\n    §gGöring influence:§! §Y[?goering_influence]§! \n    §gGoebbels influence:§! §Y[?goebbels_influence]§! \n    §gHimmler influence:§! §Y[?himmler_influence]§! \n"
+ 
+ support_goering:0 "Support Goering"
+ support_goebbels:0 "Support Goebbels"
+ support_himmler:0 "Support Himmler"
+ 
+ infuance_deadline_mission:0 "Time is running out!"
+ reichstag_deadlock_tooltip:0 "If no one gets at least 100 support with a clear majority, the deadlock in the Reichstag will have its consequences..."
+ 
+ goering_support_mission:0 "Göring's support is rising!"
+ goering_support_mission_info:0 "§5Adds §t9§! Influence Points to §gGöring§!§!"
+ goebbels_support_mission:0 "Goebbels support is rising!"
+ goebbels_support_mission_info:0 "§5Adds §t9§! Influence Points to §gGoebbels§!§!"
+ himmler_support_mission:0 "Himmler's support is rising!"
+ himmler_support_mission_info:0 "§5Adds §t9§! Influence Points to §gHimmler§!§!"
+ 
+ 
+ small_influence_goering_tooltip:0 "§5Adds §t5§! Influence Points to §gGöring§!§! \n§5Removes §t5§! Influence Points from §gGoebbels§! and §gHimmler§!§!"
+ medium_influence_goering_tooltip:0 "§5Adds §t10§! Influence Points to §gGöring§!§!"
+ large_influence_goering_tooltip:0 "§5Adds §t20§! Influence Points to §gGöring§!§!"
+ small_influence_goering:0 "Denounce Goebbels and Himmler"
+ medium_influence_goering:0 "Influence the Industrialists"
+ large_influence_goering:0 "Göring Support March"
+ 
+ 
+ small_influence_goebbels_tooltip:0 "§5Adds §t5§! Influence Points to §gGoebbels§!§! \n§5Removes §t5§! Influence Points from §gGöring§! and §gHimmler§!§!"
+ medium_influence_goebbels_tooltip:0 "§5Adds §t10§! Influence Points to §gGoebbels§!§!"
+ large_influence_goebbels_tooltip:0 "§5Adds §t20§! Influence Points to §gGoebbels§!§!"
+ small_influence_goebbels:0 "Slander Göring and Himmler"
+ medium_influence_goebbels:0 "Goebbels Speach"
+ large_influence_goebbels:0 "Goebbels Support March"
+ 
+ 
+ 
+ small_influence_himmler_tooltip:0 "§5Adds §t5§! Influence Points to §gHimmler§!§! \n§5Removes §t5§! Influence Points from §gGöring§! and §gGoebbels§!§!"
+ medium_influence_himmler_tooltip:0 "§5Adds §t10§! Influence Points to §gHimmler§!§!"
+ large_influence_himmler_tooltip:0 "§5Adds §t20§! Influence Points to §gHimmler§!§!"
+ small_influence_himmler:0 "Arrest Göring and Goebbels Supporters"
+ medium_influence_himmler:0 "Influence in the Schutzstaffel"
+ large_influence_himmler:0 "Himmler Support March"
+ 
+ doing_ss_arbeitskorps: "Doing Another SS-Arbeitskorps Decision"
+ 
+ 
+ 
+ 
+ 
+  # # # # P O L I S H   P R U S S I A # # # #
+
+ POL_german_civil_war_category: "Reclaim Królewiec?"
+
+ POL_german_civil_war_category_desc: "With the recent civil war outbreak in German territories our ministers and generals proposed a plan of Królewiec reintergration into our territories."
+ 
+
+ march_into_krolewiec_mission: "March into Królewiec"
+
+
+ bribe_german_officials: "Bribe German Officials"
+ plan_the_attack: "Plan the Attack"
+ execute_the_attack: "Execute the Attack"
+
+ bribe_1_tt: "§GOur undercover agents will cross the border and contact known §LPolish supportive German officials.§!§!"
+ plan_1_tt: "§GThe military high command will propose a plan for local §LGarisson§! troops to swiftly take control over the terrains.§!"
+ execute_1_tt: "§GThe §LGarisson§! troops will cross the border swifty liberating Poles from the regions and helping to install §LPolish controled local goverments.§!§!"
+ 
+ 
+ 

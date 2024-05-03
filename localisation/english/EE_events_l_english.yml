@@ -1,0 +1,136 @@
+﻿l_english:
+### HITLER DEAD
+ germany.leader.1.d:0 "Hitler is MIA! The Reichstag must appoint an interum Chancellor to lead the nation in this time of crisis. Up for appointment are the following members of the NSDAP... Goering, Goebbels, Himmler, Strasser."
+
+### GOEBBELS EVENTS
+ pol_goebbels_political-goebbels.1.t:0 "Consolidation of Power"
+ pol_goebbels_political-goebbels.1.d:0 "perm"
+ pol_goebbels_political-goebbels.1.a:0 "[Root.GetLeader] is Our true Fuhrer!"
+ pol_goebbels_political-goebbels.2.t:0 "Second Political Debate"
+ pol_goebbels_political-goebbels.2.d:0 "With the last debate taking very sharp turns, there and there; our population got divided! We need to stabilise our populations political beliefs to avoid further  destablilisation!"
+ pol_goebbels_political-goebbels.2.a:0 "Host the Meeting."
+ pol_goebbels_political-goebbels.3.t:0 "Order Above All?"
+ pol_goebbels_political-goebbels.3.d:0 "Our nation political stabilisation problem has got serious...\nMaybe lifes of usless citizens protesting about our nations political situation aren't worth it at all."
+ pol_goebbels_political-goebbels.3.a:0 "Yes."
+ pol_goebbels_political-goebbels.3.b:0 "No."
+ pol_goebbels_political-goebbels.4.t:0 "[GER.GetName] demands Sudetenland"
+ pol_goebbels_political-goebbels.4.d:0 "[GER.GetName] - our Neighbour demands the state of Sudetenland to be annexed into their borders. With majority of German people as their excuses."
+ pol_goebbels_political-goebbels.4.a:0 "It is hopeless..."
+ pol_goebbels_political-goebbels.4.b:0 "We will never surrender!"
+ pol_goebbels_political-goebbels.5.t:0 "[GER.GetName] claims the Sudets!"
+ pol_goebbels_political-goebbels.5.d:0 "perm"
+ pol_goebbels_political-goebbels.5.a:0 "My god!"
+ pol_goebbels_political-goebbels.6.t:0 "[CZE.GetName] rejects our demands!"
+ pol_goebbels_political-goebbels.6.d:0 "[CZE.GetAdjective] goverment hasn't answered our demands and our troops were being shot at upon entering the Sudetenland region!"
+ pol_goebbels_political-goebbels.6.a:0 "Strike them."
+
+### GERMANY TREE INITIAL
+ ger_init_tree_german_init_tree.1.t:0 "Third Industrial Plan"
+ ger_init_tree_german_init_tree.1.d:0 "The countrys path drifts away into shadows, maybe a last ditch effort on maintaining stability trough succesfull industrial actions will work out? "
+ ger_init_tree_german_init_tree.1.a:0 "Military Development will be the best"
+ ger_init_tree_german_init_tree.1.b:0 "Civilian Development A"
+ ger_init_tree_german_init_tree.1.c:0 "Civilian Development B"
+ ger_init_tree_german_init_tree.2.t:0 "[AUS.GetAdjective] - [GER.GetAdjective] Cooperation"
+ ger_init_tree_german_init_tree.2.d:0 "German-Austrian industrial cooperation was characterized by the strengthening ties between Germany and Austria. This union will bring closer economic integration between the two  nations, particularly in the industrial sector. German companies sought to exploit Austrian resources and industries, while Austrian firms gained access to the larger German market."
+ ger_init_tree_german_init_tree.2.a:0 "They'll accept..."
+ ger_init_tree_german_init_tree.3.t:0 "[GER.GetNameDef] proposes Industrial Cooperation Plans"
+ ger_init_tree_german_init_tree.3.d:0 "We extend our warm regards and sincere interest in fostering stronger ties between our nations. With the recent developments, and strong ties of our people, we see a tremendous  opportunity for collaboration that promises mutual benefits.\n\nIt is with great pleasure that we extend an invitation to the Austrian Government to join us in a strategic industrial cooperation. We believe that by  leveraging our combined resources, expertise, and markets, we can achieve remarkable advancements in various sectors, including steel production, engineering, and defense."
+ ger_init_tree_german_init_tree.3.a:0 "Yes!"
+ ger_init_tree_german_init_tree.3.b:0 "NO! Their problems aren't ours."
+ ger_init_tree_german_init_tree.4.t:0 "Austria Accepts!"
+ ger_init_tree_german_init_tree.4.d:0 "Our cooperation plans have been accepted!"
+ ger_init_tree_german_init_tree.4.a:0 "It was obvious..."
+ ger_init_tree_german_init_tree.5.t:0 "Austria Declines!"
+ ger_init_tree_german_init_tree.5.d:0 "Austrian Goverment Declined our Offer"
+ ger_init_tree_german_init_tree.5.a:0 "It wasn't so obvious after all..."
+ ger_init_tree_german_init_tree.6.t:0 "Fear of a Dark Plot..."
+ ger_init_tree_german_init_tree.6.d:0 "The possibility of Hitler's assassination loomed ominously, casting a shadow of uncertainty over the regime. Secretive conversations, clandestine meetings, and covert operations  became the order of the day as fear of betrayal and subterfuge permeated the corridors of power. Whispers of dissent and clandestine resistance movements fueled speculation, prompting extensive surveillance and  stringent security measures. The Gestapo, Hitler's formidable secret police, intensified their efforts to root out perceived threats, employing ruthless tactics to maintain control and quash any hint of an  assasination."
+ ger_init_tree_german_init_tree.6.a:0 "Jews..."
+ ger_init_tree_german_init_tree.7.t:0 "Gestapo Report 02"
+ ger_init_tree_german_init_tree.7.d:0 "\nDear Adolf Hitler,\n\nIt is with a heavy heart and a profound sense of duty that we address you today. Recent events have raised concerns within the ranks of the Gestapo  regarding the unquestionable loyalty of certain members of the SS.\n\nWhile the SS has long been regarded as a bastion of loyalty and devotion to the ideals of the National Socialist movement, disturbing reports  have surfaced suggesting that elements within its ranks may be harboring doubts or entertaining thoughts contrary to the principles upon which our great nation stands.\n\nAs custodians of the regime's security and  integrity, it is our solemn responsibility to bring such matters to your attention. The implications of disloyalty within the SS are grave, potentially undermining the very foundation upon which our movement is  built.\n\nWe urge you, esteemed leader, to consider these reports with the gravity they deserve and take appropriate measures to ensure the unwavering loyalty and commitment of the SS to your person and to the  ideals of National Socialism.\n\nRest assured, the Gestapo remains vigilant in our efforts to safeguard the integrity of the state and will spare no effort in rooting out any threats to its stability and security. \n\nHeil Hitler!"
+ ger_init_tree_german_init_tree.7.a:0 "Thats not true!"
+ ger_init_tree_german_init_tree.7.b:0 "SS Purges. We were intending on doing that anyway..."
+ 
+ #New Event Descs
+ 
+ #Reach out to Romania
+ ger_init_tree_german_init_tree.8.t:0 "The [GER.GetAdjective] officials propose an Industial Friendship Pact"
+ ger_init_tree_german_init_tree.8.d:0 "placeholder"
+ 
+ ger_init_tree_german_init_tree.8.a:0 "Sign the pact!"
+ ger_init_tree_german_init_tree.8.b:0 "We do not benefit from a destabilised country."
+
+### INDUSTRY GOEBBELS EVENTS
+
+ industry_goebbels_industry-goebbels.1.t:0 "Military Expansion"
+ industry_goebbels_industry-goebbels.1.d:0 "With recent world tensions rising, the country needs to prepare for the next war by military expansion."
+ industry_goebbels_industry-goebbels.1.a:0 "Very well"
+ industry_goebbels_industry-goebbels.2.t:0 "Economic Autarky"
+ industry_goebbels_industry-goebbels.2.d:0 "In an autarkic system, a nation or entity aims to produce all the goods and services it needs domestically, without relying on trade with other countries. Our country, weak  needs an idepended industry and self-managment, "
+ industry_goebbels_industry-goebbels.2.a:0 "For the Greater Good!"
+ industry_goebbels_industry-goebbels.3.t:0 "New Tank Models"
+ industry_goebbels_industry-goebbels.3.d:0 "With every minute, hour or even second our enemys technologies advance, our nation needs to keep that in mind at all costs.\nNew tank models will benefit our country  technologicaly and our military power will greatly increase as well!"
+ industry_goebbels_industry-goebbels.3.a:0 "Light Tank Models"
+ industry_goebbels_industry-goebbels.3.b:0 "Medium Tank Models"
+ industry_goebbels_industry-goebbels.3.c:0 "Heavy Tank Models"
+ industry_goebbels_industry-goebbels.4.t:0 "New Air Equipment"
+ industry_goebbels_industry-goebbels.4.d:0 "Our nation needs an airforce to dominate the skies, with our ground forces situation sorted out we can start an quick air branch innovations!"
+ industry_goebbels_industry-goebbels.4.a:0 "Let us open the new branch!"
+ industry_goebbels_industry-goebbels.5.t:0 "Improved German Panzers!"
+ industry_goebbels_industry-goebbels.5.d:0 "Remember. With every minute, hour or even a second our enemys technologies advance, our nation needs to keep that in mind at all costs. New tank models will benefit our  country technologicaly and our military power will increase even greater as well!"
+ industry_goebbels_industry-goebbels.5.a:0 "The war is turning..."
+ industry_goebbels_industry-goebbels.6.t:0 "[GER.GetAdjective] Expanded Research"
+ industry_goebbels_industry-goebbels.6.d:0 "New German Research"
+ industry_goebbels_industry-goebbels.6.a:0 "Let us proceed."
+
+### GENERAL EVENTS
+
+### GERMANY TURMOIL
+ germany.turmoil.1.t:0 "Hitler Shot Dead!"
+ germany.turmoil.1.d:0 "As Hitler's New Years Speech was ongoing, the hearts of the people turned red as they were filled with excitement for the plans of Germany, however the German Communists did not like this. Admist the speech, Hitler feels the metallic gunpowder fly though his chest, fatally wounding him. The audience was in horror as their hope for a new nation was dead. Who will lead Germany now?"
+ germany.turmoil.1.a:0 "This will never be forgotten!"
+
+ germany.turmoil.2.t:0 "Göring Named Führer!"
+ germany.turmoil.2.d:0 "With the death of Hitler, Rudolf Hess, current Deputy Führer has Decided to choose the Ministerpräsident of Preußen and commander-in-chief of the Luftwaffe Hermann Von Göring as the New Führer of Nazi Germany, known to be much more cautious than Hitler and more reluctant to take risks leading to war. Göring is among the top officials of Hitler’s former Inner-circle. While not very well liked among much of the military cadres he is at least respected as an old war hero and vocal defender of the German aristocracy and its privileges. If Hess and the German Volk were to support anyone it would inevitably be Göring."
+ germany.turmoil.2.a:0 "Göring der Führer!"
+
+ germany.turmoil.3.t:0 "Goebbels Named Führer!"
+ germany.turmoil.3.d:0 ""
+ germany.turmoil.3.a:0 "Goebbels der Führer!"
+
+ germany.turmoil.4.t:0 "Himmler Named Führer!"
+ germany.turmoil.4.d:0 "Reichsführer of the Schutzstaffel, and Waffen-SS, few are as devoted to the Führer as Heinrich Himmler. Over the past eight years, Himmler has developed the SS from a 290-man police force into a 500,000-strong paramilitary group. Now, with the death of Hitler, there is little to stop Himmler's growing interest in occultism and Völkisch topics. And yet, Himmler is not a man who is merely lost in the ideas of Godhood; he is also known for his organizational skills and for selecting only the best when it comes to competent subordinates. Overseeing all internal and external forces of the Reich, nothing is out of his sight. With the support of his followers growing and his influence stronger than ever, even those such as Deputy Führer Rudolf Hess have little to no choice but to choose Himmler as the Future Führer of Germany. After all, the best political weapon is the weapon of terror."
+ germany.turmoil.4.a:0 "Himmler der Führer!"
+
+ germany.turmoil.5.t:0 "Chaos Erupts in the Reich!"
+ germany.turmoil.5.d:0 ""
+ germany.turmoil.5.a:0 "Let loose the storm!"
+ germany.turmoil.5.b:0 "Long live Hitler!"
+ germany.turmoil.5.c:0 "I am become death."
+
+### FRANCE
+ france.event.1.t:0 "Possible Intervention?"
+ france.event.1.desc:0 "WIP"
+ france.event.1.a:0 "Push for the Saarland!"
+ france.event.1.b:0 "Not our problem."
+ 
+### EE EVENTS
+ # News
+ europaerwache.news.1.t:0 "Hitler Assasinated!"
+ europaerwache.news.1.d:0 "As Hitler's New Years Speech was ongoing, the hearts of the people turned red as they were filled with excitement for the plans of Germany, however the German Communists did not like this. Admist the speech, Hitler feels the metallic gunpowder fly though his chest, fatally wounding him. The audience was in horror as their hope for a new nation was dead. Who will lead Germany now?"
+ europaerwache.news.1.a:0 "This is a terrible act done by those monsters."
+ europaerwache.news.1.b:0 "Unexpected."
+ 
+ peacetalk.1.t: "Soviet Union wishes for peace"
+ peacetalk.1.d: "We propose a modified Septemberprogramm, our demands are as following, The Soviet Union will conside war indemnity concessions to the Reich totalling to 10 billion Reich Marks with further payments to cover veterans' funds and to pay off all of Germany's existing national debt. The Soviet Unions economy will be mostly if not fully dependent on Germany and her Allies. A Buffer state will be created in neutral territory under German sovereignty, The Union will cede most remaining rights to resources and technological advancements"
+ peacetalk.1.a: "the Soviet threat has been defeated!"
+ peacetalk.1.b: "We'll only accept total surrender..."
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,57 @@
+﻿l_english:
+### INIT GERMAN IDEAS
+ german_ideas_ss_plot:0 "SS Plot?"
+ german_ideas_ss_plot_desc:0 "Gestapo reported an "Looming SS Plot" ?"
+ german_ideas_civilian_spendings:0 "Civilian Spendings"
+ german_ideas_project_of_military_development:0 "Project of Military Development"
+ german_ideas_ss_purges:0 "SS Purges"
+ german_ideas_gestapo_favoritism:0 "Gestapo Favoritism"
+ 
+ #New Ideas
+ german_ideas_berlin_upkeep:0 "Berlin Upkeep Costs"
+
+### GOEBBELS POLITICAL IDEAS
+ gob_pl_major_political_discussions:0 "Major Political Discussions"
+ gob_pl_syndicalist_idea:0 "Syndicalist Idea"
+ gob_pl_german_quality_of_life:0 "German Quality of Life"
+ gob_pl_political_breakdown:0 "Political Breakdown"
+ gob_pl_political_stabilisation:0 "Political Stabilisation"
+ gob_pl_foreign_activities:0 "Foreign Activities"
+ gob_pl_socialist_values:0 "Socialist Values"
+ gob_pl_fascist_propaganda:0 "Fascist Propaganda"
+ 
+### HIMMLER IDEAS
+
+ himmla_the_power_principle:0 "The Power Principle"
+ himmla_spartan_economy:0 "Spartan Economy"
+ himmla_spartan_economy2:0 "Spartan Economy II"
+ himmla_spartan_economy3:0 "Spartan Economy III"
+ himmla_civil_war:0 "Bürgerkrieg"
+ himmla_civil_war_2:0 "Bürgerkriegsoffensive"
+ himmla_civil_war_3:0 "Bürgerkriegsanstrengungen"
+ himmla_conversion:0 "Covert Conversion Councils"
+ himmla_supply:0 "Supply Security"
+ himmla_production:0 "Production Quotas"
+ himmla_quality:0 "Quality Assurance"
+ himmla_skilled_workers:0 "Skilled Workers Retention"
+ himmla_border:0 "Border Reinforcement"
+ himmla_society:0 "Societal Reorganization"
+ himmla_agri_production:0 "Agricultural Production Quotas"
+ himmla_ten_years:0 "Ten Year Plan"
+
+### CIVIL WAR STUFF MAYBE
+
+ger_backroom_backstabbing:0 "Backroom Backstabbing"
+#Goering CW
+ger_united_army:0 "United Army for United Germany"
+ger_backed_by_the_army:0 "Backed by The Army"
+ger_airforce_control:0 "Luftwaffe Total-Control"
+ger_disjointed_military_staff:0 "Disjointed Military Staff"
+#Goebbels CW
+
+#Himmler CW
+
+#Germany Initial Tree
+ger_reichstag_discussion: "Reichstag Discussions"
+ger_nationalist_support: "Nationalist Support"
+ger_socialist_support: "Socialist Support"
